@@ -19,7 +19,7 @@ CV2 or 3 libraries with SIFT, SURF, ORB algorithms require OpenCV version 3.4.2.
 ## Usage
 
 `roscore`
-`rosbag play -l image_stitch.bag`
+`rosbag play -l image_stitching.bag`
 `rosrun [package_name] Stitch.py` or
 `cd [directory]/ python Stitch.py` 
 
