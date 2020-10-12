@@ -9,7 +9,3 @@ Follow me on LinkedIn at [Adithya_Suresh](https://www.linkedin.com/in/adithya-su
 ## Email
 
 For contact: adithya@g.clemson.edu
-
-## Portfolio
-
-Follow [Adithya_suresh](https://adithya44.wixsite.com/adithyasuresh/)
